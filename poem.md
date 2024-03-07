@@ -40,7 +40,7 @@ Will soon be here!
 <p>In place of the moon, I'll punish you!
 Pretty Soldier Sailor Moon
 In place of the moon, I'll punish you!
-Here I go! The sailor of love and justice, Sailor Moon!</p>
+Here I go! The sailor of love and justice, Sailor Moonn!</p>
 
 August is too hot for play;
 September's glorious to see,
