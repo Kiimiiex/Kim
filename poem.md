@@ -3,10 +3,14 @@
 ### Violins are blue,
 ### I have a dog who's cuter than you.
 
-*Water is blue*
-Water is grey
-Water is more than scooby doo
+<p>*Water is blue*<p>
+<p>Water is grey<p>
+<p>Water is more than scooby doo<p>
 
+<p>Scooby doo be doo<p>
+<p>Where are you?<p>
+<p>You've got to pay attention nooooooow<p>
+  
 January's new,
 February's cold,
 March is puffing, blowing too,
