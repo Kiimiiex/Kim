@@ -19,6 +19,12 @@ May's a child of happy face.
 Laughter, love, and every grace;
 June dreams all the day;
 July's for liberty;
+
+<p>In place of the moon, I'll punish you!
+Pretty Soldier Sailor Moon
+In place of the moon, I'll punish you!
+Here I go! The sailor of love and justice, Sailor Moon!</p>
+
 August is too hot for play;
 September's glorious to see,
 October is a ruddy time,
